@@ -6,13 +6,6 @@ This is a R package that provide a way to approximate likelihood function or pos
 
 ## Installation
 
-```r
-# from github
-<!--
-devtools::install_github("XiaosuTong/drsstl")
--->
-```
-
 ## Fitting
 
 
